@@ -1,3 +1,3 @@
-#Task 1- Number Guessing Game
-#Task 2- Simple calculator
-#Task 3- Tic Tac Toe Game
+# 1- Number Guessing Game
+# 2- Simple calculator
+# 3- Tic Tac Toe Game
